@@ -2,6 +2,7 @@
     background-color: rgb(152, 209, 228);
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
+    text-align: center; 
 }
 .html-body a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -33,4 +34,8 @@ h4 {
 #recipes-body ol {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
+}
+.html-body li {
+    width: 200px;
+    margin: 0 auto;
 }
