@@ -1,8 +1,12 @@
 .html-body {
-    background-color: rgb(6, 112, 148);
-    font-family:Georgia, 'Times New Roman', Times, serif
+    background-color: rgb(152, 209, 228);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
 }
 .html-body a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
+}
+#h1-food {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
