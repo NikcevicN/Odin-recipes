@@ -21,3 +21,8 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
 }
+#recipes-body ul li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+}
